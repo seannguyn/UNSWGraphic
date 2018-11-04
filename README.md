@@ -35,4 +35,4 @@ This assignment is written by Zahid Mohammed and Sean Nguyen
 
 Implementation of things such as: 3D transformations, Shaders language, Phong Shading, Camera, Lighting, etc
 
-> * [Demo video] (https://google.com)
+> * [Demo video](https://google.com)
