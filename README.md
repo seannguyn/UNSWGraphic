@@ -2,8 +2,6 @@
 
 This library is being written as part of the Computer Graphics course at UNSW.
 
-If you wish to fork it to work on assignments, please ensure that you fork it into a **private** repository. GitHub offers free private repositories as part of it's student developer pack, available [here](https://education.github.com/pack).
-
 The project is set up as an eclipse project, so can be imported via the import option *Existing Projects into Workspace*.
 
 ## Releases
@@ -30,3 +28,11 @@ The project is set up as an eclipse project, so can be imported via the import o
 ## Additional notes
 
 As it is intended for educational purposes, this library is missing many desirable features and optimisations. It prioritises clarity and simplicity over all other considerations.
+
+## Assignment demo 
+
+This assignment is written by Zahid Mohammed and Sean Nguyen 
+
+Implementation of things such as: 3D transformations, Shaders language, Phong Shading, Camera, Lighting, etc
+
+> * [Demo video] (https://google.com)
